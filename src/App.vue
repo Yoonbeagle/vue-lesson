@@ -135,7 +135,7 @@ button{cursor:pointer;}
     &:hover{cursor:pointer;}
 }
 .event-handler h4{margin:10px 0;cursor:pointer;}
-.event-handler button{width:auto;height:auto;padding:0 5px;font-size:$fontSmall;}
+.event-handler button{display:block;width:auto;height:auto;margin:auto;padding:0 5px;font-size:$fontSmall;}
 .event-handler img{width:100%;margin-top:40px;}
 .modal-container{position:fixed;top:0;width:100%;height:100%;display:flex;justify-content:center;align-items:center;padding:20px;background:$bgColorOverlay;box-sizing:border-box;}
 .modal-body{width:30%;padding:20px;background:$bgColorBlank;border-radius:$borderRadius;box-sizing:border-box;
