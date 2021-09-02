@@ -1,0 +1,5 @@
+const gameJs = () => {
+    
+}
+
+export { gameJs }

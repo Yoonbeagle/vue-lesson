@@ -19,6 +19,11 @@ const routes = [
       name: 'Transition',
       component: () => import('../views/Transition.vue')
     },
+    {
+      path: '/Game',
+      name: 'Game',
+      component: () => import('../views/Game.vue')
+    },
 ]
 
 const router = createRouter({ //new VueRouter 대체

@@ -5,6 +5,7 @@
         <ul>
             <li>원룸매매 사이트 따라하기 - 코딩애플 유튜브 <a href="/RoomList" target="_blank">[ click here ]</a></li>
             <li>트랜지션 태그 사용하여 모달 띄우기 - Tyler Potts 유튜브<a href="/Transition" target="_blank">[ click here ]</a></li>
+            <li>자바스크립트로 간단한 게임 만들기 - 코딩애플 유튜브 <a href="/Game" target="_blank">[ click here ]</a></li>
         </ul>
     </div>
 </template>
